@@ -1,0 +1,27 @@
+# System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Node modules (if added later)
+node_modules/
+package-lock.json
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Python (if scripts are used)
+__pycache__/
+*.py[cod]
+
+# Temporary Assets
+Screenshot-*.ico
+Screenshot-*.svg
+uploaded_*.png
+crop_icon.py
